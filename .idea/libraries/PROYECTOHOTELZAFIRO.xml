@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PROYECTOHOTELZAFIRO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PROYECTOHOTELZAFIRO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
